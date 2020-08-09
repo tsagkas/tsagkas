@@ -1,7 +1,11 @@
 ## Welcome, I'm Nikolas Tsagkas 👋 
-- 📜 **University of Edinburgh** PGT student - **Artificial Intelligence MSc**
-- 📜 **University of Patras** Graduate - **Electrical and Computer Engineering Diploma**
+- 📜 **University of Edinburgh** PGT student - **Artificial Intelligence MSc** [Sep 2020 - Sep 2021]
+- 📜 **University of Patras** Graduate - **Electrical and Computer Engineering Diploma** [Sep 2014 - Aug 2019]
 - ✏️ Currently working on Computer Vision projects with PyTorch 🔥 
+
+## Experience: 
+- 💼 **Data Scientist** at Ernst and Young, Athens, Greece [Nov 2019 - Jun 2020]
+- 💼 **Laboratory Assistant** at the DSIP Lab, University of Patras [Sep 2018 - Feb 2019]
 
 ## Latest Projects: 
 - 📘 **Gamified Haptic UI** - 🏆 Best Student Innovation Challenge Award, IEEE World Haptics Conference 2019 [[project](https://tsagkas.github.io/portfolio/3-World-Haptics-2019/)]
