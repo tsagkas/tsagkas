@@ -1,7 +1,6 @@
 ## Welcome, I'm Nikolas Tsagkas 👋 
 - 📜 **University of Edinburgh** PGT student - **Artificial Intelligence MSc** [Sep 2020 - Sep 2021]
 - 📜 **University of Patras** Graduate - **Electrical and Computer Engineering Diploma** [Sep 2014 - Aug 2019]
-- ✏️ Currently working on Computer Vision projects with PyTorch 🔥 
 
 ## Experience: 
 - 💼 **Data Scientist** at Ernst and Young, Athens, Greece [Nov 2019 - Jun 2020]
