@@ -3,6 +3,7 @@
 - 📜 **University of Patras** Graduate - **Electrical and Computer Engineering Diploma** [Sep 2014 - Aug 2019]
 
 ## Experience: 
+- 💼 **Computer Vision Engineer** at UEFS team, Edinburgh, UK [Sep 2020 - Sep 2021]
 - 💼 **Data Scientist** at Ernst and Young, Athens, Greece [Nov 2019 - Jun 2020]
 - 💼 **Laboratory Assistant** at the DSIP Lab, University of Patras [Sep 2018 - Feb 2019]
 
